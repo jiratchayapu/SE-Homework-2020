@@ -12,9 +12,11 @@ function Round4() {
                     className="Page-1-Copy-2"></img>
                 </div>
                 <div>
-                    <div></div>
+                    <div className="your-score">คะแนนของคุณคือ</div>
+                    <div className="your-score-2">23,453</div>
                 </div>
             </div>
+            
             
         </div>
 

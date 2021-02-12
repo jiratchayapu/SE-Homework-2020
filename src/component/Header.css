@@ -22,11 +22,11 @@
     line-height: 0.67;
     letter-spacing: normal;
     text-align: left;
-    color: var(--grapefruit);
+    color: #ff5a5a;
   }
 
 .major {
-    width: 203px;
+    width: 240px;
     height: 16px;
     margin: 5px 77px 24px 10px;
     font-family: Prompt;
@@ -37,7 +37,7 @@
     line-height: 0.8;
     letter-spacing: normal;
     text-align: left;
-    color: var(--warm-grey);
+    color: #9b9b9b;
 }
 .university {
     width: 217.2px;
@@ -51,5 +51,5 @@
     line-height: 0.8;
     letter-spacing: normal;
     text-align: left;
-    color: var(--warm-grey);
+    color: #9b9b9b;
   }

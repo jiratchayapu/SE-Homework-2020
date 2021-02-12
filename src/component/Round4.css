@@ -1,6 +1,12 @@
-.header-grid{
+.round4-grid{
     display: grid;
-    grid-template-columns: 324px 152px ;
+    grid-template-columns: 324px 152px;
+    row-gap: 21px;
+}
+.round4-grid-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 21px;
 }
 .Admission {
     width: 399px;
@@ -22,4 +28,23 @@
     padding: 7px 8px 7px 20px;
     border-radius: 17.5px;
     border: solid 1px #ff5a5a;
+  }
+.your-score {
+    width: 476px;
+    height: 534px;
+    padding: 17px 0 24px;
+  }
+.your-score-2 {
+    width: 132px;
+    height: 64px;
+    margin: 30px 0 0 217px;
+    font-family: Prompt;
+    font-size: 42px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4a4a4a;
   }
