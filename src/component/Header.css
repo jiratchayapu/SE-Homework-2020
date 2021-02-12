@@ -1,0 +1,55 @@
+.header.grid{
+    display: grid;
+    grid-template-columns: 140.6px 335.4px;
+    column-gap: 16px;
+}
+
+.engi {
+    width: 80px;
+    height: 86px;
+    padding: 0 0 1px;
+    object-fit: contain;
+  }
+
+.faculty {
+    width: 335.4px;
+    height: 16px;
+    font-family: Prompt;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.67;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--grapefruit);
+  }
+
+.major {
+    width: 203px;
+    height: 16px;
+    margin: 5px 77px 24px 10px;
+    font-family: Prompt;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--warm-grey);
+}
+.university {
+    width: 217.2px;
+    height: 16px;
+    margin: 24px 61.8px 9px 11px;
+    font-family: Prompt;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--warm-grey);
+  }
