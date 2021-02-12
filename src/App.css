@@ -6,11 +6,7 @@
   background-color: #f3f3f3;
 }
 .Rectangle-Copy {
-  width: 442px;
-  height: 493px;
-  margin: 0 16px 0 18px;
-  padding: 126px 16px 19px 20px;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
-  background-color: var(--white-0);
+  max-width: 800px;
+  margin-left:  auto;
+  margin-right: auto;
 }

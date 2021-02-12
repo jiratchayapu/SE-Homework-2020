@@ -1,7 +1,7 @@
-.header.grid{
+.header-grid{
     display: grid;
     grid-template-columns: 140.6px 335.4px;
-    column-gap: 16px;
+    
 }
 
 .engi {
